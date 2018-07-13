@@ -8,5 +8,5 @@ List of tools and apps I use daily
 
 
 ## JavaScript development
-##### Prettier
+##### Prettier 
 Makes coding in javascript a thing of pure joy, especially when combined with VSCode ESLint plugin's autofix on save feature.
